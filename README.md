@@ -1,4 +1,4 @@
-<h1>Проект abele</h1>
+<h1>Проект MDO-project</h1>
 
 ## Содержание
 - [Запуск проекта](#Запуск-проекта)
@@ -9,8 +9,8 @@
 
 ## Запуск проекта
 ```bash
-$ git clone https://github.com/skripkin/adele.git
-$ cd abele
+$ git clone https://github.com/skripkin/MDO-project.git
+$ cd MDO-project
 $ npm install
 $ npm run build
 ```
